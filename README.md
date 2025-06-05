@@ -1,16 +1,16 @@
-## Hi there 👋
+# CANDYBIT STUDIO  
 
-<!--
-**CandybitStudio/CandybitStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We're a small indie game development team of 5 passionate creators, currently crafting a cozy pixel-art farming simulation game called **Windwoven**.  
 
-Here are some ideas to get you started:
+🌾 **Windwoven** is a 2D single-player experience blending farming, life simulation, and light adventure elements in a charming pixel art world.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Steam Page](https://img.shields.io/badge/View_on_Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3446130/_/)  
+
+Our tiny but mighty team believes in:  
+• Handcrafted pixel art with modern polish  
+• Relaxing gameplay with meaningful progression  
+• Creating worlds that feel alive and welcoming  
+
+We're currently heads-down developing Windwoven - follow our journey as we grow this labor of love!  
+  
+  
