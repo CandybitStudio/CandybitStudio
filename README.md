@@ -4,7 +4,7 @@ We're a small indie game development team of 5 passionate creators, currently cr
 
 🌾 **Windwoven** is a 2D single-player experience blending farming, life simulation, and light adventure elements in a charming pixel art world.  
 
-[![Steam Page](https://img.shields.io/badge/View_on_Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3446130/_/)  
+[![Steam Page](./Assets/View_on_Steam-000000.svg)](https://store.steampowered.com/app/3446130/_/)  
 
 Our tiny but mighty team believes in:  
 • Handcrafted pixel art with modern polish  
