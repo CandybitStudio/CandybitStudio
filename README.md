@@ -1,3 +1,5 @@
+  
+  
 # CANDYBIT STUDIO  
 
 We're a small indie game development team of 5 passionate creators, currently crafting a cozy pixel-art farming simulation game called **Windwoven**.  
@@ -12,5 +14,8 @@ Our tiny but mighty team believes in:
 • Creating worlds that feel alive and welcoming  
 
 We're currently heads-down developing Windwoven - follow our journey as we grow this labor of love!  
+  
+
+
   
   
